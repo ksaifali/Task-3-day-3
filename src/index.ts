@@ -1,5 +1,5 @@
 // import type { Core } from '@strapi/strapi';
-
+# this is for the pr
 export default {
   /**
    * An asynchronous register function that runs before
